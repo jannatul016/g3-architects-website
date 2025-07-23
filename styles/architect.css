@@ -182,6 +182,6 @@ margin-bottom: 10px;
   .sponsor-img , .facts-container{
     grid-template-columns: repeat(2,1fr);
     gap: 50px;
-    justify-items: center;
+    justify-items:center;
   }
 }
